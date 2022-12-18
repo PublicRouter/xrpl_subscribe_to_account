@@ -1,0 +1,24 @@
+{
+  "name": "xrpl_subscribe_to_account",
+  "version": "1.0.0",
+  "description": "listen for specific transactions to a specified wallet or wallets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PublicRouter/xrpl_subscribe_to_account.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PublicRouter/xrpl_subscribe_to_account/issues"
+  },
+  "homepage": "https://github.com/PublicRouter/xrpl_subscribe_to_account#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "xrpl": "^2.7.0-beta.0"
+  }
+}
